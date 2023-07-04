@@ -1,0 +1,1 @@
+export { ColoredShukran } from "./ColoredShukran";

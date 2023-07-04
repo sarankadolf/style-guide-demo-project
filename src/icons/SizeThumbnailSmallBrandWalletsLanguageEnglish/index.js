@@ -1,0 +1,1 @@
+export { SizeThumbnailSmallBrandWalletsLanguageEnglish } from "./SizeThumbnailSmallBrandWalletsLanguageEnglish";

@@ -1,0 +1,13 @@
+.general-add-to-lists {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.general-add-to-lists .icon-shape {
+  height: 19px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}

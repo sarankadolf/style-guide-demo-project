@@ -1,0 +1,89 @@
+.basic-container {
+  background-color: #ffffff;
+  height: 100px;
+  width: 100px;
+}
+
+.basic-container.rounded {
+  border-radius: 10000px;
+}
+
+.basic-container.eight-px.right {
+  border-radius: 0px 8px 8px 0px;
+}
+
+.basic-container.eight-px.top {
+  border-radius: 8px 8px 0px 0px;
+}
+
+.basic-container.sixteen-px.bottom {
+  border-radius: 0px 0px 16px 16px;
+}
+
+.basic-container.sixteen-px.left {
+  border-radius: 16px 0px 0px 16px;
+}
+
+.basic-container.sixteen-px.everywhere {
+  border-radius: 16px;
+}
+
+.basic-container.four-px.right {
+  border-radius: 0px 4px 4px 0px;
+}
+
+.basic-container.two-px-default.right {
+  border-radius: 0px 2px 2px 0px;
+}
+
+.basic-container.bottom.two-px-default {
+  border-radius: 0px 0px 2px 2px;
+}
+
+.basic-container.eight-px.left {
+  border-radius: 8px 0px 0px 8px;
+}
+
+.basic-container.top.four-px {
+  border-radius: 4px 4px 0px 0px;
+}
+
+.basic-container.eight-px.bottom {
+  border-radius: 0px 0px 8px 8px;
+}
+
+.basic-container.bottom.four-px {
+  border-radius: 0px 0px 4px 4px;
+}
+
+.basic-container.sixteen-px.top {
+  border-radius: 16px 16px 0px 0px;
+}
+
+.basic-container.everywhere.four-px {
+  border-radius: 4px;
+}
+
+.basic-container.eight-px.everywhere {
+  border-radius: 8px;
+}
+
+.basic-container.two-px-default.left {
+  border-radius: 2px 0px 0px 2px;
+}
+
+.basic-container.everywhere.two-px-default {
+  border-radius: 2px;
+}
+
+.basic-container.sixteen-px.right {
+  border-radius: 0px 16px 16px 0px;
+}
+
+.basic-container.two-px-default.top {
+  border-radius: 2px 2px 0px 0px;
+}
+
+.basic-container.left.four-px {
+  border-radius: 4px 0px 0px 4px;
+}

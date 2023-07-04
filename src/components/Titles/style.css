@@ -1,0 +1,104 @@
+.titles {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: 335px;
+}
+
+.titles .title {
+  flex: 1;
+  position: relative;
+}
+
+.titles .text-wrapper {
+  color: #929391;
+  font-family: "Lato", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.titles .title-2 {
+  color: #242428;
+  font-family: "Lato", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.titles .links {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.titles .link {
+  color: #1eb9e3;
+  font-family: "Lato", Helvetica;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.titles .type-regular {
+  color: #242428;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.titles .type-with-attributes {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+}
+
+.titles .type-small {
+  color: #242428;
+  font-family: "Lato", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.titles .type-0-regular {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.titles .type-0-with-attributes {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: right;
+}
+
+.titles .type-0-small {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}

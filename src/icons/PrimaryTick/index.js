@@ -1,0 +1,1 @@
+export { PrimaryTick } from "./PrimaryTick";

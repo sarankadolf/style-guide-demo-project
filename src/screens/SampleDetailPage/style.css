@@ -1,0 +1,716 @@
+.sample-detail-page {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-width: 375px;
+  position: relative;
+}
+
+.sample-detail-page .product-image {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/image@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 375px;
+  min-width: 375px;
+  position: relative;
+}
+
+.sample-detail-page .review-and-rating {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 6px;
+  display: flex;
+  left: 246px;
+  position: absolute;
+  top: 330px;
+  width: fit-content;
+}
+
+.sample-detail-page .rating {
+  align-items: flex-start;
+  border-color: #e3e5ea;
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .div-2 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .text-wrapper-2 {
+  color: #5b4a7f;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .colored-shukran {
+  height: 12px;
+  min-width: 12px;
+  position: relative;
+}
+
+.sample-detail-page .review {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .text-wrapper-3 {
+  color: #5b4a7f;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .main-icons {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  justify-content: flex-end;
+  left: 263px;
+  position: absolute;
+  top: 16px;
+  width: fit-content;
+}
+
+.sample-detail-page .icon {
+  align-items: center;
+  background-color: #0d1a4352;
+  border-radius: 10000px;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 40px;
+}
+
+.sample-detail-page .location-icon {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/primary---share.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.sample-detail-page .general-add-to-lists-wrapper {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.sample-detail-page .price-summary {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 16px 16px;
+  position: relative;
+}
+
+.sample-detail-page .p {
+  align-self: stretch;
+  color: #292b33;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.sample-detail-page .frame {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  gap: 4px;
+  position: relative;
+}
+
+.sample-detail-page .text-wrapper-4 {
+  color: #5d647d;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  position: relative;
+  text-decoration: line-through;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .text-wrapper-5 {
+  color: #292b33;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .div-wrapper {
+  align-items: center;
+  background-color: #d1eae880;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  padding: 2px 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .text-wrapper-6 {
+  color: #20ac9b;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .frame-2 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.sample-detail-page .label-link {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .colored-shukran-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.sample-detail-page .text-wrapper-7 {
+  color: #5d647d;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .crucial-specific {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 12px;
+  position: relative;
+  width: 375px;
+}
+
+.sample-detail-page .frame-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  gap: 12px;
+  position: relative;
+}
+
+.sample-detail-page .payment-methods {
+  left: unset !important;
+  min-width: 44px !important;
+  position: relative !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.sample-detail-page .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.sample-detail-page .text-wrapper-8 {
+  align-self: stretch;
+  color: #292b33;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.sample-detail-page .text-wrapper-9 {
+  align-self: stretch;
+  color: #5d647d;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.sample-detail-page .crucial-specific-2 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  position: relative;
+  width: 375px;
+}
+
+.sample-detail-page .delivery-strip {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.sample-detail-page .div-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.sample-detail-page .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .text-wrapper-10 {
+  color: #292b33;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .text-wrapper-11 {
+  color: #5b4a7f;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 222px;
+}
+
+.sample-detail-page .frame-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.sample-detail-page .express-truck-wrapper {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 2px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .express-truck {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
+.sample-detail-page .frame-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.sample-detail-page .frame-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .text-wrapper-12 {
+  color: #292b33;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 303px;
+}
+
+.sample-detail-page .order-within {
+  color: #5d647d;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: relative;
+  white-space: nowrap;
+  width: 303px;
+}
+
+.sample-detail-page .frame-8 {
+  align-items: flex-start;
+  display: flex;
+  padding: 4px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .primary-tick-wrapper {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #1cac48;
+  border-radius: 10000px;
+  display: flex;
+  gap: 10px;
+  padding: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .primary-tick {
+  height: 6px !important;
+  min-width: 6px !important;
+  position: relative !important;
+}
+
+.sample-detail-page .frame-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.sample-detail-page .label-link-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 4px;
+  position: relative;
+}
+
+.sample-detail-page .link-2 {
+  color: #4b3d67;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .colour {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.sample-detail-page .titles-instance {
+  font-family: "Readex Pro", Helvetica !important;
+  font-weight: 600 !important;
+  line-height: 18.2px !important;
+}
+
+.sample-detail-page .div-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .frame-10 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: fit-content;
+}
+
+.sample-detail-page .colour-selected {
+  height: 60px;
+  min-width: 60px;
+  position: relative;
+}
+
+.sample-detail-page .primary-tick-2-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/basic-container-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 2px solid;
+  border-color: #5b4a7f;
+  border-radius: 2px;
+  height: 60px;
+  position: relative;
+  width: 60px;
+}
+
+.sample-detail-page .primary-tick-2 {
+  height: 24px !important;
+  left: 16px !important;
+  position: absolute !important;
+  top: 18px !important;
+  width: 24px !important;
+}
+
+.sample-detail-page .text-wrapper-13 {
+  color: #292b33;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .basic-container-instance {
+  background-color: unset !important;
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/basic-container-1@2x.png) !important;
+  background-position: 50% 50% !important;
+  background-size: cover !important;
+  height: 60px !important;
+  width: 60px !important;
+}
+
+.sample-detail-page .text-wrapper-14 {
+  color: #50566a;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .streamline-interface-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.sample-detail-page .primary-cross-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/group@2x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 14px;
+}
+
+.sample-detail-page .primary-cross {
+  height: 8px !important;
+  left: 3px !important;
+  position: absolute !important;
+  top: 3px !important;
+  width: 8px !important;
+}
+
+.sample-detail-page .text-wrapper-15 {
+  color: #5d647d;
+  flex: 1;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.sample-detail-page .product-in-detail {
+  background-color: #ffffff;
+  height: 162px;
+  min-width: 375px;
+  position: relative;
+}
+
+.sample-detail-page .frame-11 {
+  align-items: flex-end;
+  background-color: #ffffff;
+  display: flex;
+  left: 0;
+  padding: 4px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.sample-detail-page .frame-12 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #7665a0;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.sample-detail-page .text-wrapper-16 {
+  color: #7665a0;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-top: -2px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .frame-13 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #cacdd7;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+}
+
+.sample-detail-page .text-wrapper-17 {
+  color: #cacdd7;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-top: -2px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sample-detail-page .description {
+  color: #929391;
+  font-family: "Readex Pro", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  position: absolute;
+  top: 52px;
+  width: 335px;
+}

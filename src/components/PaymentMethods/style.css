@@ -1,0 +1,4495 @@
+.payment-methods .EPP-icon {
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.payment-methods .shape {
+  position: absolute;
+}
+
+.payment-methods .img {
+  position: absolute;
+}
+
+.payment-methods .shape-2 {
+  position: absolute;
+}
+
+.payment-methods .shape-3 {
+  position: absolute;
+}
+
+.payment-methods .shape-4 {
+  position: absolute;
+}
+
+.payment-methods .shape-5 {
+  position: absolute;
+}
+
+.payment-methods .shape-6 {
+  position: absolute;
+}
+
+.payment-methods .shape-7 {
+  position: absolute;
+}
+
+.payment-methods .shape-8 {
+  position: absolute;
+}
+
+.payment-methods .rect {
+  background-color: #ff5f00;
+  position: absolute;
+}
+
+.payment-methods .XMLID {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.payment-methods .fill {
+  position: absolute;
+}
+
+.payment-methods .fill-2 {
+  position: absolute;
+}
+
+.payment-methods .group {
+  position: absolute;
+}
+
+.payment-methods .path {
+  position: absolute;
+}
+
+.payment-methods .shape-9 {
+  position: absolute;
+}
+
+.payment-methods .shape-10 {
+  position: absolute;
+}
+
+.payment-methods .shape-11 {
+  position: absolute;
+}
+
+.payment-methods .overlap-group {
+  background-size: 100% 100%;
+  position: absolute;
+  top: 0;
+}
+
+.payment-methods .fill-3 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.payment-methods .fill-4 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.payment-methods .group-2 {
+  position: absolute;
+}
+
+.payment-methods .on-delivery {
+  position: absolute;
+}
+
+.payment-methods .cash-on-delivery-2 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.payment-methods .div {
+  background-size: 100% 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.payment-methods .path-2 {
+  position: absolute;
+}
+
+.payment-methods .path-3 {
+  position: absolute;
+}
+
+.payment-methods .shape-12 {
+  position: absolute;
+}
+
+.payment-methods .payment-logo {
+  position: absolute;
+}
+
+.payment-methods.size-thumbnail-small-2 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.payment-methods .size-thumbnail-small-brand-sadad-language-english {
+  height: 24px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 24px !important;
+}
+
+.payment-methods .class {
+  height: 40px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 40px !important;
+}
+
+.payment-methods.tabby {
+  position: relative;
+}
+
+.payment-methods.jio-money {
+  position: relative;
+}
+
+.payment-methods.landmark-rewards {
+  position: relative;
+}
+
+.payment-methods.thumbnail-small {
+  height: 24px;
+  width: 24px;
+}
+
+.payment-methods.thumbnail-large {
+  height: 40px;
+  width: 40px;
+}
+
+.payment-methods.medium {
+  height: 40px;
+}
+
+.payment-methods.small {
+  height: 24px;
+}
+
+.payment-methods.wallets.original {
+  height: 32px;
+  width: 86px;
+}
+
+.payment-methods.original.paytm {
+  height: 22px;
+  width: 68px;
+}
+
+.payment-methods.original.mastercard {
+  height: 28px;
+  width: 46px;
+}
+
+.payment-methods.paypal.medium {
+  width: 35px;
+}
+
+.payment-methods.mobikwik.thumbnail-small {
+  position: relative;
+}
+
+.payment-methods.mobikwik.thumbnail-large {
+  position: relative;
+}
+
+.payment-methods.knet.small {
+  width: 27px;
+}
+
+.payment-methods.wallets.medium {
+  width: 86px;
+}
+
+.payment-methods.mada.medium {
+  width: 78px;
+}
+
+.payment-methods.original.visa {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-11.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  width: 66px;
+}
+
+.payment-methods.original.LMG-rewards {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-14.svg);
+  background-size: 100% 100%;
+  height: 23px;
+  width: 103px;
+}
+
+.payment-methods.knet.original {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-6@2x.png);
+  background-size: 100% 100%;
+  height: 30px;
+  width: 45px;
+}
+
+.payment-methods.small.apple-pay {
+  width: 31px;
+}
+
+.payment-methods.paypal.small {
+  width: 21px;
+}
+
+.payment-methods.visa.medium {
+  position: relative;
+  width: 66px;
+}
+
+.payment-methods.original.ru-pay {
+  height: 22px;
+  width: 78px;
+}
+
+.payment-methods.small.visa {
+  position: relative;
+  width: 40px;
+}
+
+.payment-methods.knet.medium {
+  width: 45px;
+}
+
+.payment-methods.mobikwik.medium {
+  width: 97px;
+}
+
+.payment-methods.small.ru-pay {
+  width: 47px;
+}
+
+.payment-methods.original.mada {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-8@2x.png);
+  background-size: 100% 100%;
+  height: 26px;
+  width: 78px;
+}
+
+.payment-methods.original.cash-on-delivery {
+  height: 34px;
+}
+
+.payment-methods.apple-pay.medium {
+  width: 52px;
+}
+
+.payment-methods.small.net-banking {
+  width: 58px;
+}
+
+.payment-methods.mada.thumbnail-small {
+  position: relative;
+}
+
+.payment-methods.thumbnail-large.mada {
+  position: relative;
+}
+
+.payment-methods.small.mastercard {
+  width: 27px;
+}
+
+.payment-methods.net-banking.medium {
+  width: 97px;
+}
+
+.payment-methods.medium.LMG-rewards {
+  width: 103px;
+}
+
+.payment-methods.mobikwik.original {
+  height: 22px;
+  width: 97px;
+}
+
+.payment-methods.small.LMG-rewards {
+  width: 62px;
+}
+
+.payment-methods.visa.thumbnail-small {
+  position: relative;
+}
+
+.payment-methods.thumbnail-large.visa {
+  position: relative;
+}
+
+.payment-methods.paytm.medium {
+  width: 68px;
+}
+
+.payment-methods.knet.thumbnail-small {
+  position: relative;
+}
+
+.payment-methods.knet.thumbnail-large {
+  position: relative;
+}
+
+.payment-methods.small.mada {
+  width: 47px;
+}
+
+.payment-methods.shukran.original {
+  height: 34px;
+}
+
+.payment-methods.mobikwik.small {
+  width: 59px;
+}
+
+.payment-methods.small.paytm {
+  width: 41px;
+}
+
+.payment-methods.paypal.original {
+  height: 34px;
+  width: 35px;
+}
+
+.payment-methods.original.apple-pay {
+  height: 34px;
+  width: 52px;
+}
+
+.payment-methods.medium.mastercard {
+  width: 46px;
+}
+
+.payment-methods.wallets.small {
+  width: 52px;
+}
+
+.payment-methods.ru-pay.medium {
+  width: 78px;
+}
+
+.payment-methods.cash-on-delivery.thumbnail-small {
+  position: relative;
+}
+
+.payment-methods.thumbnail-large.cash-on-delivery {
+  position: relative;
+}
+
+.payment-methods.original.net-banking {
+  height: 34px;
+  width: 97px;
+}
+
+.payment-methods.arabic.cash-on-delivery.medium {
+  width: 99px;
+}
+
+.payment-methods.arabic.small.cash-on-delivery {
+  width: 59px;
+}
+
+.payment-methods.english.small.cash-on-delivery {
+  width: 56px;
+}
+
+.payment-methods.english.shukran.medium {
+  width: 86px;
+}
+
+.payment-methods.english.shukran.original {
+  width: 86px;
+}
+
+.payment-methods.arabic.original.cash-on-delivery {
+  width: 99px;
+}
+
+.payment-methods.shukran.arabic.original {
+  width: 102px;
+}
+
+.payment-methods.english.cash-on-delivery.medium {
+  width: 93px;
+}
+
+.payment-methods.english.shukran.small {
+  width: 52px;
+}
+
+.payment-methods.shukran.arabic.small {
+  width: 62px;
+}
+
+.payment-methods.english.original.cash-on-delivery {
+  width: 93px;
+}
+
+.payment-methods.shukran.arabic.medium {
+  width: 102px;
+}
+
+.payment-methods.size-32-thumbnail-small {
+  height: 24px;
+  width: 24px;
+}
+
+.payment-methods.size-32-thumbnail-large {
+  height: 40px;
+  width: 40px;
+}
+
+.payment-methods.size-32-medium {
+  height: 40px;
+}
+
+.payment-methods.size-32-small {
+  height: 24px;
+}
+
+.payment-methods.brand-jio-money.size-32-small {
+  width: 64px;
+}
+
+.payment-methods.brand-jio-money.size-32-medium {
+  width: 107px;
+}
+
+.payment-methods.brand-jio-money.size-32-original {
+  height: 30px;
+  width: 107px;
+}
+
+.payment-methods.size-32-medium.brand-sadad {
+  width: 71px;
+}
+
+.payment-methods.brand-tabby.size-32-medium {
+  width: 70px;
+}
+
+.payment-methods.size-32-original.brand-tabby {
+  height: 28px;
+  width: 70px;
+}
+
+.payment-methods.size-32-small.brand-sadad {
+  width: 43px;
+}
+
+.payment-methods.size-32-original.brand-sadad {
+  height: 18px;
+  width: 71px;
+}
+
+.payment-methods.size-32-small.brand-tabby {
+  width: 44px;
+}
+
+.payment-methods.mada .payment_logo {
+  background-size: 100% 100%;
+}
+
+.payment-methods.my-credit .payment_logo {
+  background-size: 100% 100%;
+}
+
+.payment-methods.thumbnail-small .payment_logo {
+  position: relative;
+}
+
+.payment-methods.thumbnail-large .payment_logo {
+  position: relative;
+}
+
+.payment-methods.mobikwik .payment_logo {
+  background-size: 100% 100%;
+}
+
+.payment-methods.knet .payment_logo {
+  background-size: 100% 100%;
+}
+
+.payment-methods.LMG-rewards .payment_logo {
+  background-size: 100% 100%;
+}
+
+.payment-methods.english.small .payment_logo {
+  position: relative;
+}
+
+.payment-methods.wallets.original .payment_logo {
+  height: 32px;
+  position: relative;
+}
+
+.payment-methods.original.paytm .payment_logo {
+  height: 22px;
+  position: relative;
+}
+
+.payment-methods.original.mastercard .payment_logo {
+  height: 28px;
+}
+
+.payment-methods.paypal.medium .payment_logo {
+  height: 33px;
+  top: 4px;
+}
+
+.payment-methods.cash-on-delivery.medium .payment_logo {
+  height: 33px;
+  position: relative;
+  top: 4px;
+}
+
+.payment-methods.knet.small .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-5@2x.png);
+  height: 18px;
+  top: 3px;
+}
+
+.payment-methods.wallets.medium .payment_logo {
+  height: 32px;
+  top: 4px;
+}
+
+.payment-methods.mada.medium .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-8@2x.png);
+  height: 26px;
+  top: 7px;
+}
+
+.payment-methods.paytm.thumbnail-small .payment_logo {
+  height: 8px;
+  top: 8px;
+}
+
+.payment-methods.thumbnail-large.paytm .payment_logo {
+  height: 13px;
+  top: 14px;
+}
+
+.payment-methods.my-credit.thumbnail-small .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/path-2-2@2x.png);
+  height: 19px;
+  left: 2px;
+  top: 2px;
+  width: 19px;
+}
+
+.payment-methods.thumbnail-large.my-credit .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/path-2-1@2x.png);
+  height: 32px;
+  left: 4px;
+  top: 4px;
+  width: 32px;
+}
+
+.payment-methods.english.cash-on-delivery .payment_logo {
+  position: relative;
+}
+
+.payment-methods.small.apple-pay .payment_logo {
+  height: 20px;
+  top: 2px;
+}
+
+.payment-methods.paypal.small .payment_logo {
+  height: 20px;
+  top: 2px;
+}
+
+.payment-methods.shukran.small .payment_logo {
+  height: 20px;
+  position: relative;
+  top: 2px;
+}
+
+.payment-methods.original.ru-pay .payment_logo {
+  height: 22px;
+  position: relative;
+}
+
+.payment-methods.english.medium .payment_logo {
+  position: relative;
+}
+
+.payment-methods.english.net-banking .payment_logo {
+  position: relative;
+}
+
+.payment-methods.small.cash-on-delivery .payment_logo {
+  height: 20px;
+  position: relative;
+  top: 2px;
+}
+
+.payment-methods.thumbnail-small.mastercard .payment_logo {
+  height: 13px;
+  left: 1px;
+  top: 6px;
+  width: 21px;
+}
+
+.payment-methods.shukran.arabic .payment_logo {
+  position: relative;
+}
+
+.payment-methods.knet.medium .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-6@2x.png);
+  height: 30px;
+  top: 5px;
+}
+
+.payment-methods.mobikwik.medium .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-10.svg);
+  height: 21px;
+  top: 10px;
+}
+
+.payment-methods.small.ru-pay .payment_logo {
+  height: 13px;
+  top: 5px;
+}
+
+.payment-methods.apple-pay.thumbnail-small .payment_logo {
+  height: 16px;
+  top: 4px;
+}
+
+.payment-methods.thumbnail-large.apple-pay .payment_logo {
+  height: 26px;
+  top: 7px;
+}
+
+.payment-methods.paypal.thumbnail-small .payment_logo {
+  height: 18px;
+  left: 2px;
+  top: 2px;
+  width: 19px;
+}
+
+.payment-methods.thumbnail-large.paypal .payment_logo {
+  height: 30px;
+  left: 4px;
+  top: 4px;
+  width: 32px;
+}
+
+.payment-methods.english.ru-pay .payment_logo {
+  position: relative;
+}
+
+.payment-methods.original.cash-on-delivery .payment_logo {
+  height: 33px;
+}
+
+.payment-methods.apple-pay.medium .payment_logo {
+  height: 33px;
+  top: 4px;
+}
+
+.payment-methods.small.net-banking .payment_logo {
+  height: 20px;
+  top: 2px;
+}
+
+.payment-methods.small.mastercard .payment_logo {
+  height: 17px;
+  top: 4px;
+}
+
+.payment-methods.net-banking.medium .payment_logo {
+  height: 33px;
+  top: 4px;
+}
+
+.payment-methods.medium.LMG-rewards .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-14.svg);
+  height: 23px;
+  top: 8px;
+}
+
+.payment-methods.mobikwik.original .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-10.svg);
+  height: 21px;
+  position: relative;
+  top: 1px;
+}
+
+.payment-methods.english.paytm .payment_logo {
+  position: relative;
+}
+
+.payment-methods.english.wallets .payment_logo {
+  position: relative;
+}
+
+.payment-methods.small.LMG-rewards .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-4.svg);
+  height: 14px;
+  top: 5px;
+}
+
+.payment-methods.mobikwik.english .payment_logo {
+  position: relative;
+}
+
+.payment-methods.paytm.medium .payment_logo {
+  height: 22px;
+  top: 9px;
+}
+
+.payment-methods.small.mada .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-3@2x.png);
+  height: 16px;
+  top: 4px;
+}
+
+.payment-methods.shukran.original .payment_logo {
+  height: 33px;
+}
+
+.payment-methods.mobikwik.small .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/payment-logo-2.svg);
+  height: 13px;
+  top: 6px;
+}
+
+.payment-methods.small.paytm .payment_logo {
+  height: 13px;
+  top: 5px;
+}
+
+.payment-methods.ru-pay.thumbnail-small .payment_logo {
+  height: 6px;
+  top: 9px;
+  width: 23px;
+}
+
+.payment-methods.thumbnail-large.ru-pay .payment_logo {
+  height: 11px;
+  top: 14px;
+  width: 39px;
+}
+
+.payment-methods.shukran.thumbnail-small .payment_logo {
+  height: 19px;
+  left: 2px;
+  top: 2px;
+  width: 19px;
+}
+
+.payment-methods.shukran.thumbnail-large .payment_logo {
+  height: 32px;
+  left: 4px;
+  top: 4px;
+  width: 32px;
+}
+
+.payment-methods.arabic.cash-on-delivery .payment_logo {
+  background-size: 100% 100%;
+}
+
+.payment-methods.shukran.medium .payment_logo {
+  height: 33px;
+  position: relative;
+  top: 4px;
+}
+
+.payment-methods.net-banking.thumbnail-small .payment_logo {
+  background-color: #135680;
+  border-radius: 9.54px/9.6px;
+  height: 19px;
+  left: 2px;
+  top: 2px;
+  width: 19px;
+}
+
+.payment-methods.thumbnail-large.net-banking .payment_logo {
+  background-color: #135680;
+  border-radius: 15.9px/16px;
+  height: 32px;
+  left: 4px;
+  top: 4px;
+  width: 32px;
+}
+
+.payment-methods.installments.thumbnail-small .payment_logo {
+  height: 19px;
+  left: 2px;
+  top: 3px;
+  width: 19px;
+}
+
+.payment-methods.thumbnail-large.installments .payment_logo {
+  height: 31px;
+  left: 4px;
+  top: 4px;
+  width: 31px;
+}
+
+.payment-methods.paypal.original .payment_logo {
+  height: 33px;
+}
+
+.payment-methods.original.apple-pay .payment_logo {
+  height: 33px;
+}
+
+.payment-methods.medium.mastercard .payment_logo {
+  height: 28px;
+  top: 6px;
+}
+
+.payment-methods.wallets.small .payment_logo {
+  height: 19px;
+  top: 2px;
+}
+
+.payment-methods.ru-pay.medium .payment_logo {
+  height: 22px;
+  top: 9px;
+}
+
+.payment-methods.thumbnail-large.mastercard .payment_logo {
+  height: 21px;
+  left: 3px;
+  top: 10px;
+  width: 34px;
+}
+
+.payment-methods.original.net-banking .payment_logo {
+  height: 33px;
+  position: relative;
+}
+
+.payment-methods.arabic.cash-on-delivery.medium .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/bitmap-2@2x.png);
+}
+
+.payment-methods.arabic.small.cash-on-delivery .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/bitmap-1@2x.png);
+}
+
+.payment-methods.english.shukran.medium .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shukran-brand-2@2x.png);
+  background-size: 100% 100%;
+}
+
+.payment-methods.english.shukran.original .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shukran-brand-2@2x.png);
+  background-size: 100% 100%;
+}
+
+.payment-methods.arabic.original.cash-on-delivery .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/bitmap-2@2x.png);
+}
+
+.payment-methods.english.shukran.small .payment_logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shukran-brand@2x.png);
+  background-size: 100% 100%;
+}
+
+.payment-methods.shukran .g {
+  background-color: #e0ab32;
+  left: -1px;
+  position: relative;
+  top: -1px;
+}
+
+.payment-methods.installments .g {
+  background-size: 100% 100%;
+}
+
+.payment-methods.paypal .g {
+  position: relative;
+}
+
+.payment-methods.apple-pay .g {
+  position: relative;
+}
+
+.payment-methods.ru-pay .g {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/path4482-0-4.svg);
+  background-size: 100% 100%;
+  left: -160px;
+  position: absolute;
+  top: -1128px;
+}
+
+.payment-methods.original.mastercard .g {
+  height: 28px;
+  width: 46px;
+}
+
+.payment-methods.paypal.medium .g {
+  height: 33px;
+  width: 35px;
+}
+
+.payment-methods.small.apple-pay .g {
+  height: 20px;
+  width: 31px;
+}
+
+.payment-methods.paypal.small .g {
+  height: 20px;
+  width: 21px;
+}
+
+.payment-methods.original.ru-pay .g {
+  height: 22px;
+  width: 78px;
+}
+
+.payment-methods.thumbnail-small.mastercard .g {
+  height: 13px;
+}
+
+.payment-methods.small.ru-pay .g {
+  height: 13px;
+  width: 47px;
+}
+
+.payment-methods.apple-pay.thumbnail-small .g {
+  height: 16px;
+  width: 24px;
+}
+
+.payment-methods.thumbnail-large.apple-pay .g {
+  height: 26px;
+  width: 40px;
+}
+
+.payment-methods.paypal.thumbnail-small .g {
+  height: 18px;
+}
+
+.payment-methods.thumbnail-large.paypal .g {
+  height: 30px;
+}
+
+.payment-methods.apple-pay.medium .g {
+  height: 33px;
+  width: 52px;
+}
+
+.payment-methods.small.net-banking .g {
+  background-color: #135680;
+  border-radius: 9.82px/9.9px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.payment-methods.small.mastercard .g {
+  height: 17px;
+  width: 27px;
+}
+
+.payment-methods.net-banking.medium .g {
+  background-color: #135680;
+  border-radius: 16.43px/16.5px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.payment-methods.ru-pay.thumbnail-small .g {
+  height: 6px;
+  width: 23px;
+}
+
+.payment-methods.thumbnail-large.ru-pay .g {
+  height: 11px;
+  width: 39px;
+}
+
+.payment-methods.shukran.thumbnail-small .g {
+  border-radius: 10.6px;
+  height: 21px;
+  width: 21px;
+}
+
+.payment-methods.shukran.thumbnail-large .g {
+  border-radius: 17px;
+  height: 34px;
+  width: 34px;
+}
+
+.payment-methods.net-banking.thumbnail-small .g {
+  height: 10px;
+  left: 3px;
+  position: relative;
+  top: 6px;
+  width: 13px;
+}
+
+.payment-methods.thumbnail-large.net-banking .g {
+  height: 16px;
+  left: 5px;
+  position: relative;
+  top: 10px;
+  width: 22px;
+}
+
+.payment-methods.installments.thumbnail-small .g {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shape-45.svg);
+  height: 19px;
+}
+
+.payment-methods.thumbnail-large.installments .g {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shape-34.svg);
+  height: 31px;
+}
+
+.payment-methods.paypal.original .g {
+  height: 33px;
+  width: 35px;
+}
+
+.payment-methods.original.apple-pay .g {
+  height: 33px;
+  width: 52px;
+}
+
+.payment-methods.medium.mastercard .g {
+  height: 28px;
+  width: 46px;
+}
+
+.payment-methods.ru-pay.medium .g {
+  height: 22px;
+  width: 78px;
+}
+
+.payment-methods.thumbnail-large.mastercard .g {
+  height: 21px;
+}
+
+.payment-methods.original.net-banking .g {
+  background-color: #135680;
+  border-radius: 16.43px/16.5px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.payment-methods.mada .overlap {
+  position: relative;
+}
+
+.payment-methods.mastercard .overlap {
+  position: relative;
+}
+
+.payment-methods.wallets .overlap {
+  position: relative;
+}
+
+.payment-methods.tabby .overlap {
+  position: relative;
+}
+
+.payment-methods.shukran .overlap {
+  position: relative;
+}
+
+.payment-methods.installments .overlap {
+  position: relative;
+}
+
+.payment-methods.paypal .overlap {
+  left: 0;
+  position: absolute;
+}
+
+.payment-methods.jio-money .overlap {
+  position: relative;
+}
+
+.payment-methods.paytm .overlap {
+  position: relative;
+}
+
+.payment-methods.landmark-rewards .overlap {
+  position: relative;
+}
+
+.payment-methods.my-credit .overlap {
+  position: relative;
+}
+
+.payment-methods.sadad .overlap {
+  position: relative;
+}
+
+.payment-methods.card .overlap {
+  position: relative;
+}
+
+.payment-methods.mobikwik .overlap {
+  position: relative;
+}
+
+.payment-methods.knet .overlap {
+  position: relative;
+}
+
+.payment-methods.apple-pay .overlap {
+  position: relative;
+}
+
+.payment-methods.visa .overlap {
+  position: relative;
+}
+
+.payment-methods.LMG-rewards .overlap {
+  position: relative;
+}
+
+.payment-methods.cash-on-delivery .overlap {
+  position: relative;
+}
+
+.payment-methods.net-banking .overlap {
+  position: relative;
+}
+
+.payment-methods.ru-pay .overlap {
+  position: relative;
+}
+
+.payment-methods.original.mastercard .overlap {
+  height: 28px;
+}
+
+.payment-methods.paypal.medium .overlap {
+  height: 9px;
+  top: 24px;
+  width: 35px;
+}
+
+.payment-methods.paypal.small .overlap {
+  height: 5px;
+  top: 14px;
+  width: 21px;
+}
+
+.payment-methods.original.ru-pay .overlap {
+  height: 21px;
+  left: 1px;
+  width: 67px;
+}
+
+.payment-methods.thumbnail-small.mastercard .overlap {
+  height: 13px;
+  width: 21px;
+}
+
+.payment-methods.small.ru-pay .overlap {
+  height: 13px;
+  width: 40px;
+}
+
+.payment-methods.paypal.thumbnail-small .overlap {
+  height: 5px;
+  top: 13px;
+  width: 19px;
+}
+
+.payment-methods.thumbnail-large.paypal .overlap {
+  height: 8px;
+  top: 22px;
+  width: 32px;
+}
+
+.payment-methods.small.mastercard .overlap {
+  height: 17px;
+}
+
+.payment-methods.ru-pay.thumbnail-small .overlap {
+  height: 6px;
+  width: 20px;
+}
+
+.payment-methods.thumbnail-large.ru-pay .overlap {
+  height: 10px;
+  width: 34px;
+}
+
+.payment-methods.installments.thumbnail-small .overlap {
+  height: 13px;
+  left: 3px;
+  top: 3px;
+  width: 13px;
+}
+
+.payment-methods.thumbnail-large.installments .overlap {
+  height: 22px;
+  left: 5px;
+  top: 4px;
+  width: 22px;
+}
+
+.payment-methods.paypal.original .overlap {
+  height: 9px;
+  top: 24px;
+  width: 35px;
+}
+
+.payment-methods.medium.mastercard .overlap {
+  height: 28px;
+}
+
+.payment-methods.ru-pay.medium .overlap {
+  height: 21px;
+  left: 1px;
+  width: 67px;
+}
+
+.payment-methods.thumbnail-large.mastercard .overlap {
+  height: 21px;
+  width: 34px;
+}
+
+.payment-methods.thumbnail-small .EPP-icon {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shape-44.svg);
+  height: 10px;
+  left: 1px;
+  top: 2px;
+  width: 10px;
+}
+
+.payment-methods.thumbnail-large .EPP-icon {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shape-33.svg);
+  height: 16px;
+  left: 2px;
+  top: 3px;
+  width: 16px;
+}
+
+.payment-methods.thumbnail-small .shape {
+  height: 1px;
+  left: 2px;
+  top: 4px;
+  width: 1px;
+}
+
+.payment-methods.thumbnail-large .shape {
+  height: 2px;
+  left: 4px;
+  top: 6px;
+  width: 2px;
+}
+
+.payment-methods.thumbnail-small .img {
+  height: 1px;
+  left: 2px;
+  top: 5px;
+  width: 1px;
+}
+
+.payment-methods.thumbnail-large .img {
+  height: 2px;
+  left: 4px;
+  top: 9px;
+  width: 2px;
+}
+
+.payment-methods.thumbnail-small .shape-2 {
+  height: 1px;
+  left: 2px;
+  top: 7px;
+  width: 1px;
+}
+
+.payment-methods.thumbnail-large .shape-2 {
+  height: 2px;
+  left: 4px;
+  top: 11px;
+  width: 2px;
+}
+
+.payment-methods.thumbnail-small .shape-3 {
+  height: 1px;
+  left: 4px;
+  top: 7px;
+  width: 1px;
+}
+
+.payment-methods.thumbnail-large .shape-3 {
+  height: 2px;
+  left: 7px;
+  top: 11px;
+  width: 2px;
+}
+
+.payment-methods.thumbnail-small .shape-4 {
+  height: 1px;
+  left: 4px;
+  top: 5px;
+  width: 1px;
+}
+
+.payment-methods.thumbnail-large .shape-4 {
+  height: 2px;
+  left: 7px;
+  top: 9px;
+  width: 2px;
+}
+
+.payment-methods.thumbnail-small .shape-5 {
+  height: 1px;
+  left: 4px;
+  top: 4px;
+  width: 1px;
+}
+
+.payment-methods.thumbnail-large .shape-5 {
+  height: 2px;
+  left: 7px;
+  top: 6px;
+  width: 2px;
+}
+
+.payment-methods.thumbnail-small .shape-6 {
+  height: 1px;
+  left: 6px;
+  top: 7px;
+  width: 1px;
+}
+
+.payment-methods.thumbnail-large .shape-6 {
+  height: 2px;
+  left: 11px;
+  top: 11px;
+  width: 2px;
+}
+
+.payment-methods.thumbnail-small .shape-7 {
+  height: 1px;
+  left: 6px;
+  top: 5px;
+  width: 1px;
+}
+
+.payment-methods.thumbnail-large .shape-7 {
+  height: 2px;
+  left: 11px;
+  top: 9px;
+  width: 2px;
+}
+
+.payment-methods.thumbnail-small .shape-8 {
+  height: 1px;
+  left: 6px;
+  top: 4px;
+  width: 1px;
+}
+
+.payment-methods.thumbnail-large .shape-8 {
+  height: 2px;
+  left: 11px;
+  top: 6px;
+  width: 2px;
+}
+
+.payment-methods.thumbnail-small .rect {
+  height: 10px;
+  left: 8px;
+  top: 1px;
+  width: 6px;
+}
+
+.payment-methods.thumbnail-large .rect {
+  height: 16px;
+  left: 12px;
+  top: 2px;
+  width: 9px;
+}
+
+.payment-methods.original .rect {
+  height: 22px;
+  left: 17px;
+  top: 3px;
+  width: 12px;
+}
+
+.payment-methods.small .rect {
+  height: 13px;
+  left: 10px;
+  top: 2px;
+  width: 7px;
+}
+
+.payment-methods.medium .rect {
+  height: 22px;
+  left: 17px;
+  top: 3px;
+  width: 12px;
+}
+
+.payment-methods.mada .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.wallets .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.tabby .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.shukran .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.installments .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.jio-money .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.paytm .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.landmark-rewards .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.my-credit .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.sadad .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.card .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.mobikwik .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.knet .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.apple-pay .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.visa .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.LMG-rewards .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.cash-on-delivery .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.net-banking .XMLID {
+  height: 7px;
+  width: 16px;
+}
+
+.payment-methods.original.mastercard .XMLID {
+  height: 28px;
+  width: 23px;
+}
+
+.payment-methods.paypal.medium .XMLID {
+  height: 7px;
+  width: 26px;
+}
+
+.payment-methods.paypal.small .XMLID {
+  height: 4px;
+  width: 16px;
+}
+
+.payment-methods.original.ru-pay .XMLID {
+  height: 16px;
+  width: 16px;
+}
+
+.payment-methods.thumbnail-small.mastercard .XMLID {
+  height: 13px;
+  width: 10px;
+}
+
+.payment-methods.small.ru-pay .XMLID {
+  height: 10px;
+  width: 9px;
+}
+
+.payment-methods.paypal.thumbnail-small .XMLID {
+  height: 4px;
+  width: 14px;
+}
+
+.payment-methods.thumbnail-large.paypal .XMLID {
+  height: 7px;
+  width: 24px;
+}
+
+.payment-methods.small.mastercard .XMLID {
+  height: 17px;
+  width: 13px;
+}
+
+.payment-methods.ru-pay.thumbnail-small .XMLID {
+  height: 5px;
+  width: 5px;
+}
+
+.payment-methods.thumbnail-large.ru-pay .XMLID {
+  height: 8px;
+  width: 8px;
+}
+
+.payment-methods.paypal.original .XMLID {
+  height: 7px;
+  width: 26px;
+}
+
+.payment-methods.medium.mastercard .XMLID {
+  height: 28px;
+  width: 23px;
+}
+
+.payment-methods.ru-pay.medium .XMLID {
+  height: 16px;
+  width: 16px;
+}
+
+.payment-methods.thumbnail-large.mastercard .XMLID {
+  height: 21px;
+  width: 17px;
+}
+
+.payment-methods.mada .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.mastercard .fill {
+  top: 0;
+}
+
+.payment-methods.wallets .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.tabby .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.shukran .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.installments .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.jio-money .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.paytm .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.landmark-rewards .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.my-credit .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.sadad .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.card .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.mobikwik .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.knet .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.apple-pay .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.visa .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.LMG-rewards .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.cash-on-delivery .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.net-banking .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.original.mastercard .fill {
+  height: 28px;
+  left: 23px;
+  width: 23px;
+}
+
+.payment-methods.paypal.medium .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.paypal.small .fill {
+  height: 3px;
+  left: 4px;
+  top: 1px;
+  width: 4px;
+}
+
+.payment-methods.original.ru-pay .fill {
+  height: 12px;
+  left: 15px;
+  top: 4px;
+  width: 13px;
+}
+
+.payment-methods.thumbnail-small.mastercard .fill {
+  height: 13px;
+  left: 11px;
+  width: 10px;
+}
+
+.payment-methods.small.ru-pay .fill {
+  height: 7px;
+  left: 9px;
+  top: 3px;
+  width: 8px;
+}
+
+.payment-methods.paypal.thumbnail-small .fill {
+  height: 3px;
+  left: 3px;
+  top: 1px;
+  width: 3px;
+}
+
+.payment-methods.thumbnail-large.paypal .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.small.mastercard .fill {
+  height: 17px;
+  left: 14px;
+  width: 13px;
+}
+
+.payment-methods.ru-pay.thumbnail-small .fill {
+  height: 4px;
+  left: 5px;
+  top: 1px;
+  width: 4px;
+}
+
+.payment-methods.thumbnail-large.ru-pay .fill {
+  height: 6px;
+  left: 8px;
+  top: 2px;
+  width: 7px;
+}
+
+.payment-methods.paypal.original .fill {
+  height: 5px;
+  left: 6px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.medium.mastercard .fill {
+  height: 28px;
+  left: 23px;
+  width: 23px;
+}
+
+.payment-methods.ru-pay.medium .fill {
+  height: 12px;
+  left: 15px;
+  top: 4px;
+  width: 13px;
+}
+
+.payment-methods.thumbnail-large.mastercard .fill {
+  height: 21px;
+  left: 17px;
+  width: 17px;
+}
+
+.payment-methods.mada .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.mastercard .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.wallets .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.tabby .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.shukran .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.installments .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.jio-money .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.paytm .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.landmark-rewards .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.my-credit .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.sadad .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.card .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.mobikwik .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.knet .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.apple-pay .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.visa .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.LMG-rewards .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.cash-on-delivery .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.net-banking .fill-2 {
+  height: 5px;
+  left: 14px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.ru-pay .fill-2 {
+  top: 0;
+}
+
+.payment-methods.paypal.medium .fill-2 {
+  height: 5px;
+  left: 26px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.paypal.small .fill-2 {
+  height: 3px;
+  left: 15px;
+  top: 1px;
+  width: 4px;
+}
+
+.payment-methods.original.ru-pay .fill-2 {
+  height: 16px;
+  left: 28px;
+  width: 15px;
+}
+
+.payment-methods.small.ru-pay .fill-2 {
+  height: 10px;
+  left: 17px;
+  width: 9px;
+}
+
+.payment-methods.paypal.thumbnail-small .fill-2 {
+  height: 3px;
+  left: 14px;
+  top: 1px;
+  width: 3px;
+}
+
+.payment-methods.thumbnail-large.paypal .fill-2 {
+  height: 5px;
+  left: 23px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.ru-pay.thumbnail-small .fill-2 {
+  height: 5px;
+  left: 8px;
+  width: 5px;
+}
+
+.payment-methods.thumbnail-large.ru-pay .fill-2 {
+  height: 8px;
+  left: 14px;
+  width: 8px;
+}
+
+.payment-methods.paypal.original .fill-2 {
+  height: 5px;
+  left: 26px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.ru-pay.medium .fill-2 {
+  height: 16px;
+  left: 28px;
+  width: 15px;
+}
+
+.payment-methods.mada .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.mastercard .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.wallets .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.tabby .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.shukran .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.installments .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.paypal .group {
+  top: 0;
+}
+
+.payment-methods.jio-money .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.paytm .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.landmark-rewards .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.my-credit .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.sadad .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.card .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.mobikwik .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.knet .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.apple-pay .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.visa .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.LMG-rewards .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.cash-on-delivery .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.net-banking .group {
+  height: 5px;
+  left: 12px;
+  top: 2px;
+  width: 13px;
+}
+
+.payment-methods.paypal.medium .group {
+  height: 9px;
+  left: 13px;
+  width: 22px;
+}
+
+.payment-methods.paypal.small .group {
+  height: 5px;
+  left: 8px;
+  width: 13px;
+}
+
+.payment-methods.original.ru-pay .group {
+  height: 12px;
+  left: 41px;
+  top: 4px;
+  width: 13px;
+}
+
+.payment-methods.small.ru-pay .group {
+  height: 7px;
+  left: 25px;
+  top: 2px;
+  width: 8px;
+}
+
+.payment-methods.paypal.thumbnail-small .group {
+  height: 5px;
+  left: 7px;
+  width: 12px;
+}
+
+.payment-methods.thumbnail-large.paypal .group {
+  height: 8px;
+  left: 12px;
+  width: 20px;
+}
+
+.payment-methods.ru-pay.thumbnail-small .group {
+  height: 4px;
+  left: 12px;
+  top: 1px;
+  width: 4px;
+}
+
+.payment-methods.thumbnail-large.ru-pay .group {
+  height: 6px;
+  left: 21px;
+  top: 2px;
+  width: 6px;
+}
+
+.payment-methods.paypal.original .group {
+  height: 9px;
+  left: 13px;
+  width: 22px;
+}
+
+.payment-methods.ru-pay.medium .group {
+  height: 12px;
+  left: 41px;
+  top: 4px;
+  width: 13px;
+}
+
+.payment-methods.thumbnail-small .path {
+  height: 5px;
+  left: 16px;
+  top: 1px;
+  width: 4px;
+}
+
+.payment-methods.thumbnail-large .path {
+  height: 8px;
+  left: 27px;
+  top: 2px;
+  width: 7px;
+}
+
+.payment-methods.original .path {
+  height: 17px;
+  left: 53px;
+  top: 4px;
+  width: 14px;
+}
+
+.payment-methods.small .path {
+  height: 10px;
+  left: 32px;
+  top: 3px;
+  width: 8px;
+}
+
+.payment-methods.medium .path {
+  height: 17px;
+  left: 53px;
+  top: 4px;
+  width: 14px;
+}
+
+.payment-methods.mada .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.mastercard .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.wallets .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.tabby .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.installments .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.paypal .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.jio-money .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.paytm .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.landmark-rewards .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.my-credit .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.sadad .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.card .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.mobikwik .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.knet .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.visa .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.LMG-rewards .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.cash-on-delivery .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.ru-pay .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.small.apple-pay .shape-9 {
+  height: 18px;
+  left: 1px;
+  top: 1px;
+  width: 29px;
+}
+
+.payment-methods.shukran.small .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.apple-pay.thumbnail-small .shape-9 {
+  height: 14px;
+  left: 1px;
+  top: 1px;
+  width: 23px;
+}
+
+.payment-methods.thumbnail-large.apple-pay .shape-9 {
+  height: 23px;
+  left: 1px;
+  top: 1px;
+  width: 38px;
+}
+
+.payment-methods.apple-pay.medium .shape-9 {
+  height: 30px;
+  left: 2px;
+  top: 2px;
+  width: 49px;
+}
+
+.payment-methods.small.net-banking .shape-9 {
+  height: 7px;
+  left: 3px;
+  top: 7px;
+  width: 13px;
+}
+
+.payment-methods.net-banking.medium .shape-9 {
+  height: 12px;
+  left: 6px;
+  top: 11px;
+  width: 21px;
+}
+
+.payment-methods.shukran.original .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.shukran.thumbnail-small .shape-9 {
+  height: 13px;
+  left: 7px;
+  top: 4px;
+  width: 8px;
+}
+
+.payment-methods.shukran.thumbnail-large .shape-9 {
+  height: 22px;
+  left: 11px;
+  top: 6px;
+  width: 13px;
+}
+
+.payment-methods.shukran.medium .shape-9 {
+  height: 12px;
+  left: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.net-banking.thumbnail-small .shape-9 {
+  height: 7px;
+  left: 0;
+  top: 0;
+  width: 12px;
+}
+
+.payment-methods.thumbnail-large.net-banking .shape-9 {
+  height: 11px;
+  left: 1px;
+  top: 1px;
+  width: 21px;
+}
+
+.payment-methods.original.apple-pay .shape-9 {
+  height: 30px;
+  left: 2px;
+  top: 2px;
+  width: 49px;
+}
+
+.payment-methods.original.net-banking .shape-9 {
+  height: 12px;
+  left: 6px;
+  top: 11px;
+  width: 21px;
+}
+
+.payment-methods.mada .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.mastercard .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.wallets .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.tabby .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.shukran .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.installments .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.paypal .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.jio-money .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.paytm .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.landmark-rewards .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.my-credit .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.thumbnail-small .shape-10 {
+  left: 0;
+  top: 0;
+}
+
+.payment-methods.thumbnail-large .shape-10 {
+  left: 0;
+  top: 0;
+}
+
+.payment-methods.sadad .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.card .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.mobikwik .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.knet .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.apple-pay .shape-10 {
+  left: 0;
+  top: 0;
+}
+
+.payment-methods.visa .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.LMG-rewards .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.cash-on-delivery .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.ru-pay .shape-10 {
+  height: 16px;
+  left: 0;
+  top: 0;
+  width: 23px;
+}
+
+.payment-methods.small.apple-pay .shape-10 {
+  height: 20px;
+  width: 31px;
+}
+
+.payment-methods.apple-pay.thumbnail-small .shape-10 {
+  height: 16px;
+  width: 24px;
+}
+
+.payment-methods.thumbnail-large.apple-pay .shape-10 {
+  height: 26px;
+  width: 40px;
+}
+
+.payment-methods.apple-pay.medium .shape-10 {
+  height: 33px;
+  width: 52px;
+}
+
+.payment-methods.small.net-banking .shape-10 {
+  height: 10px;
+  left: 3px;
+  top: 6px;
+  width: 14px;
+}
+
+.payment-methods.net-banking.medium .shape-10 {
+  height: 16px;
+  left: 5px;
+  top: 10px;
+  width: 23px;
+}
+
+.payment-methods.net-banking.thumbnail-small .shape-10 {
+  height: 10px;
+  width: 13px;
+}
+
+.payment-methods.thumbnail-large.net-banking .shape-10 {
+  height: 16px;
+  width: 22px;
+}
+
+.payment-methods.original.apple-pay .shape-10 {
+  height: 33px;
+  width: 52px;
+}
+
+.payment-methods.original.net-banking .shape-10 {
+  height: 16px;
+  left: 5px;
+  top: 10px;
+  width: 23px;
+}
+
+.payment-methods.mada .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.mastercard .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.wallets .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.tabby .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.shukran .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.installments .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.paypal .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.jio-money .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.paytm .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.landmark-rewards .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.my-credit .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.sadad .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.card .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.mobikwik .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.knet .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.visa .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.LMG-rewards .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.cash-on-delivery .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.ru-pay .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.small.apple-pay .shape-11 {
+  height: 10px;
+  left: 5px;
+  top: 5px;
+  width: 22px;
+}
+
+.payment-methods.apple-pay.thumbnail-small .shape-11 {
+  height: 8px;
+  left: 4px;
+  top: 4px;
+  width: 17px;
+}
+
+.payment-methods.thumbnail-large.apple-pay .shape-11 {
+  height: 13px;
+  left: 6px;
+  top: 7px;
+  width: 29px;
+}
+
+.payment-methods.apple-pay.medium .shape-11 {
+  height: 17px;
+  left: 8px;
+  top: 9px;
+  width: 37px;
+}
+
+.payment-methods.small.net-banking .shape-11 {
+  height: 5px;
+  left: 8px;
+  top: 8px;
+  width: 4px;
+}
+
+.payment-methods.net-banking.medium .shape-11 {
+  height: 8px;
+  left: 13px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.net-banking.thumbnail-small .shape-11 {
+  height: 5px;
+  left: 5px;
+  top: 2px;
+  width: 4px;
+}
+
+.payment-methods.thumbnail-large.net-banking .shape-11 {
+  height: 8px;
+  left: 8px;
+  top: 3px;
+  width: 6px;
+}
+
+.payment-methods.original.apple-pay .shape-11 {
+  height: 17px;
+  left: 8px;
+  top: 9px;
+  width: 37px;
+}
+
+.payment-methods.original.net-banking .shape-11 {
+  height: 8px;
+  left: 13px;
+  top: 13px;
+  width: 6px;
+}
+
+.payment-methods.thumbnail-small .overlap-group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/fill-11-4.svg);
+  height: 12px;
+  left: 5px;
+  width: 10px;
+}
+
+.payment-methods.thumbnail-large .overlap-group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/fill-11-3.svg);
+  height: 20px;
+  left: 8px;
+  width: 17px;
+}
+
+.payment-methods.original .overlap-group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/fill-11-2.svg);
+  height: 22px;
+  left: 9px;
+  width: 19px;
+}
+
+.payment-methods.small .overlap-group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/fill-11.svg);
+  height: 13px;
+  left: 5px;
+  width: 11px;
+}
+
+.payment-methods.medium .overlap-group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/fill-11-2.svg);
+  height: 22px;
+  left: 9px;
+  width: 19px;
+}
+
+.payment-methods.thumbnail-small .fill-3 {
+  height: 11px;
+  width: 9px;
+}
+
+.payment-methods.thumbnail-large .fill-3 {
+  height: 18px;
+  width: 16px;
+}
+
+.payment-methods.original .fill-3 {
+  height: 19px;
+  width: 17px;
+}
+
+.payment-methods.small .fill-3 {
+  height: 11px;
+  width: 10px;
+}
+
+.payment-methods.medium .fill-3 {
+  height: 19px;
+  width: 17px;
+}
+
+.payment-methods.thumbnail-small .fill-4 {
+  height: 11px;
+  width: 9px;
+}
+
+.payment-methods.thumbnail-large .fill-4 {
+  height: 18px;
+  width: 16px;
+}
+
+.payment-methods.original .fill-4 {
+  height: 19px;
+  width: 17px;
+}
+
+.payment-methods.small .fill-4 {
+  height: 11px;
+  width: 10px;
+}
+
+.payment-methods.medium .fill-4 {
+  height: 19px;
+  width: 17px;
+}
+
+.payment-methods.shukran .group-2 {
+  top: 1px;
+}
+
+.payment-methods.paytm .group-2 {
+  top: 0;
+}
+
+.payment-methods.net-banking .group-2 {
+  top: 1px;
+}
+
+.payment-methods.arabic.small .group-2 {
+  width: 41px;
+}
+
+.payment-methods.wallets.original .group-2 {
+  height: 12px;
+  top: 10px;
+  width: 51px;
+}
+
+.payment-methods.original.paytm .group-2 {
+  height: 22px;
+  width: 31px;
+}
+
+.payment-methods.cash-on-delivery.medium .group-2 {
+  height: 11px;
+  top: 5px;
+  width: 38px;
+}
+
+.payment-methods.wallets.medium .group-2 {
+  height: 12px;
+  top: 10px;
+  width: 51px;
+}
+
+.payment-methods.landmark-rewards.arabic .group-2 {
+  left: 0;
+}
+
+.payment-methods.paytm.thumbnail-small .group-2 {
+  height: 8px;
+  left: 13px;
+  width: 11px;
+}
+
+.payment-methods.thumbnail-large.paytm .group-2 {
+  height: 13px;
+  left: 22px;
+  width: 18px;
+}
+
+.payment-methods.my-credit.thumbnail-small .group-2 {
+  height: 9px;
+  left: 11px;
+  top: 5px;
+  width: 6px;
+}
+
+.payment-methods.thumbnail-large.my-credit .group-2 {
+  height: 16px;
+  left: 18px;
+  top: 8px;
+  width: 10px;
+}
+
+.payment-methods.arabic.sadad .group-2 {
+  left: 0;
+}
+
+.payment-methods.shukran.small .group-2 {
+  height: 19px;
+}
+
+.payment-methods.original.ru-pay .group-2 {
+  height: 18px;
+  top: 2px;
+  width: 12px;
+}
+
+.payment-methods.small.cash-on-delivery .group-2 {
+  height: 7px;
+  top: 3px;
+}
+
+.payment-methods.shukran.arabic .group-2 {
+  left: 0;
+}
+
+.payment-methods.arabic.card .group-2 {
+  left: 0;
+}
+
+.payment-methods.small.ru-pay .group-2 {
+  height: 11px;
+  top: 1px;
+}
+
+.payment-methods.arabic.ru-pay .group-2 {
+  left: 0;
+}
+
+.payment-methods.arabic.mastercard .group-2 {
+  left: 0;
+}
+
+.payment-methods.mobikwik.arabic .group-2 {
+  left: 0;
+}
+
+.payment-methods.original.cash-on-delivery .group-2 {
+  height: 11px;
+  top: 5px;
+  width: 38px;
+}
+
+.payment-methods.arabic.original .group-2 {
+  left: 0;
+}
+
+.payment-methods.arabic.visa .group-2 {
+  left: 0;
+}
+
+.payment-methods.arabic.LMG-rewards .group-2 {
+  left: 0;
+}
+
+.payment-methods.small.net-banking .group-2 {
+  height: 19px;
+}
+
+.payment-methods.arabic.jio-money .group-2 {
+  left: 0;
+}
+
+.payment-methods.net-banking.medium .group-2 {
+  height: 31px;
+  width: 59px;
+}
+
+.payment-methods.arabic.installments .group-2 {
+  left: 0;
+}
+
+.payment-methods.arabic.net-banking .group-2 {
+  left: 0;
+}
+
+.payment-methods.paytm.medium .group-2 {
+  height: 22px;
+  width: 31px;
+}
+
+.payment-methods.shukran.original .group-2 {
+  height: 32px;
+  width: 68px;
+}
+
+.payment-methods.small.paytm .group-2 {
+  height: 13px;
+  left: 22px;
+}
+
+.payment-methods.ru-pay.thumbnail-small .group-2 {
+  height: 5px;
+  top: 1px;
+  width: 4px;
+}
+
+.payment-methods.thumbnail-large.ru-pay .group-2 {
+  height: 9px;
+  top: 1px;
+  width: 6px;
+}
+
+.payment-methods.paypal.arabic .group-2 {
+  left: 0;
+}
+
+.payment-methods.arabic.apple-pay .group-2 {
+  left: 0;
+}
+
+.payment-methods.arabic.cash-on-delivery .group-2 {
+  left: 0;
+}
+
+.payment-methods.knet.arabic .group-2 {
+  left: 0;
+}
+
+.payment-methods.arabic.medium .group-2 {
+  left: 0;
+}
+
+.payment-methods.wallets.arabic .group-2 {
+  left: 0;
+}
+
+.payment-methods.shukran.medium .group-2 {
+  height: 32px;
+  width: 68px;
+}
+
+.payment-methods.arabic.mada .group-2 {
+  left: 0;
+}
+
+.payment-methods.arabic.tabby .group-2 {
+  left: 0;
+}
+
+.payment-methods.wallets.small .group-2 {
+  height: 7px;
+  top: 6px;
+}
+
+.payment-methods.ru-pay.medium .group-2 {
+  height: 18px;
+  top: 2px;
+  width: 12px;
+}
+
+.payment-methods.original.net-banking .group-2 {
+  height: 31px;
+  width: 59px;
+}
+
+.payment-methods.english.small.cash-on-delivery .group-2 {
+  left: 23px;
+  width: 23px;
+}
+
+.payment-methods.english.ru-pay.medium .group-2 {
+  left: 66px;
+}
+
+.payment-methods.english.small.paytm .group-2 {
+  width: 19px;
+}
+
+.payment-methods.english.ru-pay.thumbnail-small .group-2 {
+  left: 20px;
+}
+
+.payment-methods.english.thumbnail-large.ru-pay .group-2 {
+  left: 33px;
+}
+
+.payment-methods.english.wallets.original .group-2 {
+  left: 35px;
+}
+
+.payment-methods.english.paytm.medium .group-2 {
+  left: 37px;
+}
+
+.payment-methods.english.original.net-banking .group-2 {
+  left: 38px;
+}
+
+.payment-methods.english.original.paytm .group-2 {
+  left: 37px;
+}
+
+.payment-methods.english.cash-on-delivery.medium .group-2 {
+  left: 38px;
+}
+
+.payment-methods.english.wallets.small .group-2 {
+  left: 21px;
+  width: 31px;
+}
+
+.payment-methods.my-credit.small.arabic .group-2 {
+  left: 0;
+}
+
+.payment-methods.english.wallets.medium .group-2 {
+  left: 35px;
+}
+
+.payment-methods.english.original.cash-on-delivery .group-2 {
+  left: 38px;
+}
+
+.payment-methods.english.original.ru-pay .group-2 {
+  left: 66px;
+}
+
+.payment-methods.english.net-banking.medium .group-2 {
+  left: 38px;
+}
+
+.payment-methods.english.small.ru-pay .group-2 {
+  left: 40px;
+  width: 7px;
+}
+
+.payment-methods.english.small.net-banking .group-2 {
+  left: 23px;
+  width: 35px;
+}
+
+.payment-methods.paytm .on-delivery {
+  left: 0;
+}
+
+.payment-methods.arabic.small .on-delivery {
+  width: 20px;
+}
+
+.payment-methods.wallets.original .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.original.paytm .on-delivery {
+  height: 19px;
+  width: 36px;
+}
+
+.payment-methods.original.mastercard .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.jio-money.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.paypal.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.cash-on-delivery.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 55px;
+}
+
+.payment-methods.mobikwik.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.mobikwik.thumbnail-large .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.jio-money.original .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.english.visa .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.english.landmark-rewards .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.wallets.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.mada.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.original.visa .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.landmark-rewards.arabic .on-delivery {
+  top: 0;
+}
+
+.payment-methods.paytm.thumbnail-small .on-delivery {
+  height: 7px;
+  top: 1px;
+  width: 13px;
+}
+
+.payment-methods.thumbnail-large.paytm .on-delivery {
+  height: 11px;
+  top: 2px;
+  width: 21px;
+}
+
+.payment-methods.original.LMG-rewards .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.my-credit.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 4px;
+  top: 4px;
+  width: 7px;
+}
+
+.payment-methods.thumbnail-large.my-credit .on-delivery {
+  height: 17px;
+  left: 6px;
+  top: 7px;
+  width: 12px;
+}
+
+.payment-methods.knet.original .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.english.mastercard .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.arabic.sadad .on-delivery {
+  top: 0;
+}
+
+.payment-methods.visa.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.english.mada .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.original.ru-pay .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.tabby.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.tabby .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-small.LMG-rewards .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.LMG-rewards .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.card.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.english.net-banking .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.my-credit.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.small.cash-on-delivery .on-delivery {
+  height: 6px;
+  left: 23px;
+  top: 13px;
+}
+
+.payment-methods.thumbnail-small.mastercard .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.shukran.arabic .on-delivery {
+  top: 0;
+}
+
+.payment-methods.arabic.card .on-delivery {
+  top: 0;
+}
+
+.payment-methods.knet.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.mobikwik.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.english.apple-pay .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.english.card .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.apple-pay.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.apple-pay .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.paypal.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.paypal .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.arabic.ru-pay .on-delivery {
+  top: 0;
+}
+
+.payment-methods.english.ru-pay .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.original.mada .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.arabic.mastercard .on-delivery {
+  top: 0;
+}
+
+.payment-methods.landmark-rewards.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.mobikwik.arabic .on-delivery {
+  top: 0;
+}
+
+.payment-methods.original.cash-on-delivery .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 55px;
+}
+
+.payment-methods.english.knet .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.apple-pay.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.arabic.original .on-delivery {
+  top: 0;
+}
+
+.payment-methods.english.LMG-rewards .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.arabic.visa .on-delivery {
+  top: 0;
+}
+
+.payment-methods.arabic.LMG-rewards .on-delivery {
+  top: 0;
+}
+
+.payment-methods.english.tabby .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.landmark-rewards.original .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.mada.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.mada .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.wallets.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.wallets.thumbnail-large .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.medium.sadad .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.arabic.jio-money .on-delivery {
+  top: 0;
+}
+
+.payment-methods.net-banking.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.english.jio-money .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.medium.LMG-rewards .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.mobikwik.original .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.jio-money.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.jio-money .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.landmark-rewards.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.landmark-rewards .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.tabby.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.arabic.installments .on-delivery {
+  top: 0;
+}
+
+.payment-methods.english.wallets .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.arabic.net-banking .on-delivery {
+  top: 0;
+}
+
+.payment-methods.visa.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.visa .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.mobikwik.english .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.my-credit.original .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.paytm.medium .on-delivery {
+  height: 19px;
+  width: 36px;
+}
+
+.payment-methods.knet.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.knet.thumbnail-large .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.shukran.original .on-delivery {
+  height: 33px;
+  left: 69px;
+  width: 33px;
+}
+
+.payment-methods.small.paytm .on-delivery {
+  height: 11px;
+  top: 2px;
+}
+
+.payment-methods.ru-pay.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.ru-pay .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.original.tabby .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.paypal.arabic .on-delivery {
+  top: 0;
+}
+
+.payment-methods.arabic.apple-pay .on-delivery {
+  top: 0;
+}
+
+.payment-methods.english.paypal .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.original.installments .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.card.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.card .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.shukran.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.shukran.thumbnail-large .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.english.sadad .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.knet.arabic .on-delivery {
+  top: 0;
+}
+
+.payment-methods.original.sadad .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.arabic.medium .on-delivery {
+  top: 0;
+}
+
+.payment-methods.wallets.arabic .on-delivery {
+  top: 0;
+}
+
+.payment-methods.shukran.medium .on-delivery {
+  height: 33px;
+  left: 69px;
+  width: 33px;
+}
+
+.payment-methods.english.installments .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.arabic.mada .on-delivery {
+  top: 0;
+}
+
+.payment-methods.net-banking.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.net-banking .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.installments.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.installments .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.paypal.original .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.original.card .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.original.apple-pay .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.medium.mastercard .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.arabic.tabby .on-delivery {
+  top: 0;
+}
+
+.payment-methods.ru-pay.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-small.sadad .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.sadad .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.english.shukran .on-delivery {
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.installments.medium .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.cash-on-delivery.thumbnail-small .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.cash-on-delivery .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large.mastercard .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.original.net-banking .on-delivery {
+  height: 10px;
+  left: 38px;
+  width: 33px;
+}
+
+.payment-methods.wallets.arabic.small .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.english.my-credit.medium .on-delivery {
+  top: 21px;
+}
+
+.payment-methods.arabic.small.sadad .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.english.small.cash-on-delivery .on-delivery {
+  width: 33px;
+}
+
+.payment-methods.arabic.jio-money.small .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.paypal.small.arabic .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.english.my-credit.original .on-delivery {
+  top: 21px;
+}
+
+.payment-methods.arabic.small.tabby .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.small.arabic.mada .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.small.arabic.net-banking .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.english.cash-on-delivery.thumbnail-small .on-delivery {
+  top: 21px;
+}
+
+.payment-methods.english.thumbnail-large.cash-on-delivery .on-delivery {
+  top: 21px;
+}
+
+.payment-methods.english.small.paytm .on-delivery {
+  width: 22px;
+}
+
+.payment-methods.english.my-credit.small .on-delivery {
+  height: 10px;
+  left: 38px;
+  top: 21px;
+  width: 33px;
+}
+
+.payment-methods.small.arabic.card .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.english.paytm.medium .on-delivery {
+  top: 3px;
+}
+
+.payment-methods.arabic.small.installments .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.arabic.small.mastercard .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.arabic.small.ru-pay .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.thumbnail-large.cash-on-delivery.arabic .on-delivery {
+  top: 0;
+}
+
+.payment-methods.arabic.cash-on-delivery.thumbnail-small .on-delivery {
+  top: 0;
+}
+
+.payment-methods.arabic.small.apple-pay .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.english.original.paytm .on-delivery {
+  top: 3px;
+}
+
+.payment-methods.arabic.small.LMG-rewards .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.arabic.small.visa .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.english.cash-on-delivery.medium .on-delivery {
+  top: 21px;
+}
+
+.payment-methods.my-credit.small.arabic .on-delivery {
+  height: 20px;
+  left: 42px;
+  top: 0;
+}
+
+.payment-methods.english.shukran.small .on-delivery {
+  height: 10px;
+  left: 38px;
+}
+
+.payment-methods.shukran.arabic.small .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.english.original.cash-on-delivery .on-delivery {
+  top: 21px;
+}
+
+.payment-methods.knet.arabic.small .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.mobikwik.arabic.small .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.landmark-rewards.small.arabic .on-delivery {
+  height: 20px;
+  left: 42px;
+}
+
+.payment-methods.thumbnail-small .cash-on-delivery-2 {
+  height: 33px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-large .cash-on-delivery-2 {
+  height: 33px;
+  width: 33px;
+}
+
+.payment-methods.original .cash-on-delivery-2 {
+  height: 33px;
+  width: 33px;
+}
+
+.payment-methods.small .cash-on-delivery-2 {
+  height: 20px;
+  width: 20px;
+}
+
+.payment-methods.medium .cash-on-delivery-2 {
+  height: 33px;
+  width: 33px;
+}
+
+.payment-methods.thumbnail-small .div {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shape-11.svg);
+  height: 32px;
+  width: 32px;
+}
+
+.payment-methods.thumbnail-large .div {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shape-11.svg);
+  height: 32px;
+  width: 32px;
+}
+
+.payment-methods.original .div {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shape-11.svg);
+  height: 32px;
+  width: 32px;
+}
+
+.payment-methods.small .div {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shape-1.svg);
+  height: 19px;
+  width: 19px;
+}
+
+.payment-methods.medium .div {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/1381ea37ca85ebde26ea960653de4736/img/shape-11.svg);
+  height: 32px;
+  width: 32px;
+}
+
+.payment-methods.thumbnail-small .path-2 {
+  height: 13px;
+  left: 6px;
+  top: 10px;
+  width: 18px;
+}
+
+.payment-methods.thumbnail-large .path-2 {
+  height: 13px;
+  left: 6px;
+  top: 10px;
+  width: 18px;
+}
+
+.payment-methods.original .path-2 {
+  height: 13px;
+  left: 6px;
+  top: 10px;
+  width: 18px;
+}
+
+.payment-methods.small .path-2 {
+  height: 8px;
+  left: 3px;
+  top: 6px;
+  width: 11px;
+}
+
+.payment-methods.medium .path-2 {
+  height: 13px;
+  left: 6px;
+  top: 10px;
+  width: 18px;
+}
+
+.payment-methods.thumbnail-small .path-3 {
+  height: 13px;
+  left: 8px;
+  top: 8px;
+  width: 18px;
+}
+
+.payment-methods.thumbnail-large .path-3 {
+  height: 13px;
+  left: 8px;
+  top: 8px;
+  width: 18px;
+}
+
+.payment-methods.original .path-3 {
+  height: 13px;
+  left: 8px;
+  top: 8px;
+  width: 18px;
+}
+
+.payment-methods.small .path-3 {
+  height: 8px;
+  left: 5px;
+  top: 5px;
+  width: 11px;
+}
+
+.payment-methods.medium .path-3 {
+  height: 13px;
+  left: 8px;
+  top: 8px;
+  width: 18px;
+}
+
+.payment-methods.thumbnail-small .shape-12 {
+  height: 2px;
+  left: 20px;
+  top: 17px;
+  width: 3px;
+}
+
+.payment-methods.thumbnail-large .shape-12 {
+  height: 2px;
+  left: 20px;
+  top: 17px;
+  width: 3px;
+}
+
+.payment-methods.original .shape-12 {
+  height: 2px;
+  left: 20px;
+  top: 17px;
+  width: 3px;
+}
+
+.payment-methods.small .shape-12 {
+  height: 1px;
+  left: 12px;
+  top: 10px;
+  width: 2px;
+}
+
+.payment-methods.medium .shape-12 {
+  height: 2px;
+  left: 20px;
+  top: 17px;
+  width: 3px;
+}
+
+.payment-methods.mada .payment-logo {
+  left: 0;
+}
+
+.payment-methods.tabby .payment-logo {
+  left: 0;
+}
+
+.payment-methods.medium .payment-logo {
+  height: 22px;
+  top: 9px;
+  width: 66px;
+}
+
+.payment-methods.visa .payment-logo {
+  left: 0;
+}
+
+.payment-methods.small .payment-logo {
+  height: 13px;
+  top: 5px;
+  width: 40px;
+}
+
+.payment-methods.mobikwik.thumbnail-small .payment-logo {
+  height: 14px;
+  left: 2px;
+  top: 5px;
+  width: 19px;
+}
+
+.payment-methods.mobikwik.thumbnail-large .payment-logo {
+  height: 24px;
+  left: 4px;
+  top: 8px;
+  width: 32px;
+}
+
+.payment-methods.tabby.thumbnail-small .payment-logo {
+  height: 10px;
+  top: 7px;
+  width: 24px;
+}
+
+.payment-methods.thumbnail-large.tabby .payment-logo {
+  height: 16px;
+  top: 12px;
+  width: 40px;
+}
+
+.payment-methods.mada.thumbnail-small .payment-logo {
+  height: 8px;
+  top: 8px;
+  width: 24px;
+}
+
+.payment-methods.thumbnail-large.mada .payment-logo {
+  height: 13px;
+  top: 13px;
+  width: 40px;
+}
+
+.payment-methods.jio-money.thumbnail-small .payment-logo {
+  height: 19px;
+  left: 2px;
+  top: 2px;
+  width: 19px;
+}
+
+.payment-methods.thumbnail-large.jio-money .payment-logo {
+  height: 32px;
+  left: 4px;
+  top: 4px;
+  width: 32px;
+}
+
+.payment-methods.landmark-rewards.thumbnail-small .payment-logo {
+  height: 19px;
+  left: 3px;
+  top: 2px;
+  width: 18px;
+}
+
+.payment-methods.thumbnail-large.landmark-rewards .payment-logo {
+  height: 32px;
+  left: 5px;
+  top: 3px;
+  width: 31px;
+}
+
+.payment-methods.visa.thumbnail-small .payment-logo {
+  height: 8px;
+  top: 8px;
+  width: 24px;
+}
+
+.payment-methods.thumbnail-large.visa .payment-logo {
+  height: 13px;
+  top: 14px;
+  width: 40px;
+}
+
+.payment-methods.knet.thumbnail-small .payment-logo {
+  height: 14px;
+  left: 1px;
+  top: 5px;
+  width: 22px;
+}
+
+.payment-methods.knet.thumbnail-large .payment-logo {
+  height: 24px;
+  left: 2px;
+  top: 8px;
+  width: 36px;
+}
+
+.payment-methods.cash-on-delivery.thumbnail-small .payment-logo {
+  height: 19px;
+  left: 2px;
+  top: 2px;
+  width: 19px;
+}
+
+.payment-methods.thumbnail-large.cash-on-delivery .payment-logo {
+  height: 32px;
+  left: 4px;
+  top: 4px;
+  width: 32px;
+}
