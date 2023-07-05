@@ -7,85 +7,85 @@
 }
 
 .basic-container.rounded {
-  border-radius: 10000px;
+  border-radius: $border-radius-10000x;
 }
 
 .basic-container.eight-px.right {
-  border-radius: 0px 8px 8px 0px;
+  border-radius: $border-radius-0x $border-radius-2x $border-radius-2x $border-radius-0x;
 }
 
 .basic-container.eight-px.top {
-  border-radius: 8px 8px 0px 0px;
+  border-radius: $border-radius-2x $border-radius-2x $border-radius-0x $border-radius-0x;
 }
 
 .basic-container.sixteen-px.bottom {
-  border-radius: 0px 0px 16px 16px;
+  border-radius: $border-radius-0x $border-radius-0x $border-radius-4x $border-radius-4x;
 }
 
 .basic-container.sixteen-px.left {
-  border-radius: 16px 0px 0px 16px;
+  border-radius: $border-radius-4x $border-radius-0x $border-radius-0x $border-radius-4x;
 }
 
 .basic-container.sixteen-px.everywhere {
-  border-radius: 16px;
+  border-radius: $border-radius-4x;
 }
 
 .basic-container.four-px.right {
-  border-radius: 0px 4px 4px 0px;
+  border-radius: $border-radius-0x $border-radius-1x $border-radius-1x $border-radius-0x;
 }
 
 .basic-container.two-px-default.right {
-  border-radius: 0px 2px 2px 0px;
+  border-radius: $border-radius-0x $border-radius-0-5x $border-radius-0-5x $border-radius-0x;
 }
 
 .basic-container.bottom.two-px-default {
-  border-radius: 0px 0px 2px 2px;
+  border-radius: $border-radius-0x $border-radius-0x $border-radius-0-5x $border-radius-0-5x;
 }
 
 .basic-container.eight-px.left {
-  border-radius: 8px 0px 0px 8px;
+  border-radius: $border-radius-2x $border-radius-0x $border-radius-0x $border-radius-2x;
 }
 
 .basic-container.top.four-px {
-  border-radius: 4px 4px 0px 0px;
+  border-radius: $border-radius-1x $border-radius-1x $border-radius-0x $border-radius-0x;
 }
 
 .basic-container.eight-px.bottom {
-  border-radius: 0px 0px 8px 8px;
+  border-radius: $border-radius-0x $border-radius-0x $border-radius-2x $border-radius-2x;
 }
 
 .basic-container.bottom.four-px {
-  border-radius: 0px 0px 4px 4px;
+  border-radius: $border-radius-0x $border-radius-0x $border-radius-1x $border-radius-1x;
 }
 
 .basic-container.sixteen-px.top {
-  border-radius: 16px 16px 0px 0px;
+  border-radius: $border-radius-4x $border-radius-4x $border-radius-0x $border-radius-0x;
 }
 
 .basic-container.everywhere.four-px {
-  border-radius: 4px;
+  border-radius: $border-radius-1x;
 }
 
 .basic-container.eight-px.everywhere {
-  border-radius: 8px;
+  border-radius: $border-radius-2x;
 }
 
 .basic-container.two-px-default.left {
-  border-radius: 2px 0px 0px 2px;
+  border-radius: $border-radius-0-5x $border-radius-0x $border-radius-0x $border-radius-0-5x;
 }
 
 .basic-container.everywhere.two-px-default {
-  border-radius: 2px;
+  border-radius: $border-radius-0-5x;
 }
 
 .basic-container.sixteen-px.right {
-  border-radius: 0px 16px 16px 0px;
+  border-radius: $border-radius-0x $border-radius-4x $border-radius-4x $border-radius-0x;
 }
 
 .basic-container.two-px-default.top {
-  border-radius: 2px 2px 0px 0px;
+  border-radius: $border-radius-0-5x $border-radius-0-5x $border-radius-0x $border-radius-0x;
 }
 
 .basic-container.left.four-px {
-  border-radius: 4px 0px 0px 4px;
+  border-radius: $border-radius-1x $border-radius-0x $border-radius-0x $border-radius-1x;
 }

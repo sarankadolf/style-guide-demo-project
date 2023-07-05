@@ -1,7 +1,9 @@
+@import "lms-style-dictionary/build/web/homecentre/tokens.scss";
+
 .titles {
   align-items: center;
   display: flex;
-  gap: 16px;
+  gap: $spacing-4x;
   position: relative;
   width: 335px;
 }
@@ -14,10 +16,10 @@
 .titles .text-wrapper {
   color: #929391;
   font-family: "Lato", Helvetica;
-  font-size: 14px;
-  font-weight: 400;
+  font-size: $font-size-s;
+  font-weight: $font-weight-regular;
   letter-spacing: 0;
-  line-height: 20px;
+  line-height: $line-height-regular;
   margin-top: -1px;
   position: relative;
   white-space: nowrap;
@@ -27,10 +29,10 @@
 .titles .title-2 {
   color: #242428;
   font-family: "Lato", Helvetica;
-  font-size: 14px;
-  font-weight: 700;
+  font-size: $font-size-s;
+  font-weight: $font-weight-bold;
   letter-spacing: 0;
-  line-height: 20px;
+  line-height: $line-height-regular;
   margin-top: -1px;
   position: relative;
   white-space: nowrap;
@@ -40,7 +42,7 @@
 .titles .links {
   align-items: center;
   display: flex;
-  gap: 16px;
+  gap: $spacing-4x;
   justify-content: flex-end;
   position: relative;
   width: fit-content;
@@ -59,8 +61,8 @@
 .titles .type-regular {
   color: #242428;
   font-family: "Lato", Helvetica;
-  font-size: 18px;
-  font-weight: 700;
+  font-size: $font-size-l;
+  font-weight: $font-weight-bold;
   letter-spacing: 0;
   line-height: 26px;
   margin-top: -1px;
@@ -70,35 +72,35 @@
 .titles .type-with-attributes {
   align-items: flex-start;
   display: flex;
-  gap: 4px;
+  gap: $spacing-1x;
 }
 
 .titles .type-small {
   color: #242428;
   font-family: "Lato", Helvetica;
-  font-size: 14px;
-  font-weight: 700;
+  font-size: $font-size-s;
+  font-weight: $font-weight-bold;
   letter-spacing: 0;
-  line-height: 20px;
+  line-height: $line-height-regular;
   margin-top: -1px;
   white-space: nowrap;
 }
 
 .titles .type-0-regular {
-  font-size: 16px;
-  font-weight: 700;
-  line-height: 24px;
+  font-size: $font-size-m;
+  font-weight: $font-weight-bold;
+  line-height: $line-height-loose;
 }
 
 .titles .type-0-with-attributes {
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 20px;
+  font-size: $font-size-s;
+  font-weight: $font-weight-regular;
+  line-height: $line-height-regular;
   text-align: right;
 }
 
 .titles .type-0-small {
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 20px;
+  font-size: $font-size-s;
+  font-weight: $font-weight-regular;
+  line-height: $line-height-regular;
 }
