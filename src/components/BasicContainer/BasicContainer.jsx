@@ -5,7 +5,7 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 
 import PropTypes from "prop-types";
 import React from "react";
-import "./style.css";
+import "./style.scss";
 
 export const BasicContainer = ({ borderRadius, keepBorders, className }) => {
   return <div className={`basic-container ${borderRadius} ${keepBorders} ${className}`} />;

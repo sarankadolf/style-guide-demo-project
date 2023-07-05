@@ -7,7 +7,7 @@ import { ColoredShukran } from "../../icons/ColoredShukran";
 import { PrimaryCross1 } from "../../icons/PrimaryCross1";
 import { PrimaryTick } from "../../icons/PrimaryTick";
 import { PrimaryTick1 } from "../../icons/PrimaryTick1";
-import "./style.css";
+import "./style.scss";
 
 export const SampleDetailPage = () => {
   return (
